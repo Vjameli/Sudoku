@@ -6,4 +6,4 @@ The programming language used was MATLAB, including its solver.
 
 A report about the project was made in Portuguese. Take a look at ""
 
-The original reference: https://www.mathworks.com/help/optim/ug/sudoku-puzzles-problem-based.html
+Reference: https://www.mathworks.com/help/optim/ug/sudoku-puzzles-problem-based.html
