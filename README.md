@@ -1,6 +1,6 @@
 # Sudoku
 
-A standard and a diagonal Sudoku were solved using integer programming with binary variables in a factibility problem.
+A standard and a diagonal Sudoku were solved using integer programming with binary variables in a feasibility problem.
 
 The programming language used was MATLAB, including its solver.
 
